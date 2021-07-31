@@ -1,0 +1,68 @@
+{
+	"basics": {
+		"name": "Deepak Gupta",
+		"label": "Student",
+		
+		"email": "2019kucp1080@iiitkota.ac.in",
+		"phone": "8437753776",
+
+		"summary": "Hi, I'm Deepak. Currently doing B.Tech at IIIT Kota in Computer Science department. My technical skills is frontend and backend development, Intermediate in Compititive Programming, Good at data structures and algorithms. i'm also good at Native Application development using Dart's framework - Flutter.",
+		"location": {
+			"address": "#154 Sector 5.B , New Shastri Nagar  ",
+			"postalCode": "147301",
+			"city": "Mandi Gibindgarh",
+			"countryCode": "91",
+			"region": "Punjab "
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "DeepakGupta0499",
+				"url": "https://www.github.com/DeepakGupta0499/"
+			},
+			{
+				"network": "linkedin",
+				"username": "deepak-gupta-316180191 ",
+				"url": "https://www.linkedin.com/in/deepak-gupta-316180191/"
+			},
+			{
+				"network": "Instagram",
+				"username": "deepak_8911",
+				"url": "https://instagram.com/deepak_8911"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "01-08-2019",
+		"endDate": "01-07-2023",
+		"gpa": "7.23",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"publications": [
+        
+    ],
+	"skills": [
+        {
+            "level": "Master",
+            "keywords": ["C++","Django","HTML5", "CSS3", "Javascript"]
+	    },
+        {
+            "level": "Intermediate",
+            "keywords": ["Flutter","BootStrap","SQL"]
+	    },
+        {
+            "level": "Beginner",
+            "keywords": ["Python","Java","ReactJs"]
+	    }
+    ],
+	"interests": [{
+		"name": "trading",
+		"keywords": ["Stock MArket"]
+	}],
+	"references": []
+}
